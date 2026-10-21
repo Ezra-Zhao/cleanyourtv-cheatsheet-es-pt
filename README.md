@@ -11,6 +11,9 @@
 
 ---
 
+
+Apoyo y más: [GitHub Sponsors](https://github.com/sponsors/Ezra-Zhao) · [Gumroad — plantillas y cuadernos que uso](https://ezraflow28.gumroad.com) · [Ko-fi](https://ko-fi.com/ezra777zhao)
+
 ## 原理（为什么安全）
 
 Android 电视和安卓手机共用同一套调试桥（ADB）。电视上打开 USB 调试、允许你的电脑连一次，剩下的全是标准 Android 工具：

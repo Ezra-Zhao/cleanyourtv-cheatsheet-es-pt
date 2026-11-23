@@ -1,5 +1,7 @@
 # CleanYourTV 速查表 | CleanYourTV Cheatsheet | Guía rápida de CleanYourTV
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 > 一页看懂 CleanYourTV：通过 Wi-Fi 给 Android TV / Google TV 瘦身——先备份，再按品牌对照禁用遥测、广告服务和预装臃肿包，换上一个干净的类 Apple TV 主页。不 root、不拆机、什么都不真卸载（只是禁用），一行恢复脚本随时全部还原。起因是作者给爸妈的电视去广告：开机先弹赞助广告、还没打开 Netflix 就先看广告，受不了，自己动手清了。
 
 - 上游项目：[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)（2026-10-19 实测 4,013 ★，MIT 协议；官网 cleanyour.tv，仓库内含 30 份品牌/型号电视清单）
